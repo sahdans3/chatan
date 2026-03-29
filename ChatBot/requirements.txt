@@ -1,3 +1,0 @@
-python-telegram-bot==20.7
-mysql-connector-python
-python-dotenv
